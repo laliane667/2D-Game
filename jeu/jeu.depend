@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1659722287 source:c:\users\elian\onedrive\bureau\cpp\jeu\main.cpp
+	"engine.h"
+	"game.h"
+	"world.h"
+
+1659952986 c:\users\elian\onedrive\bureau\cpp\jeu\engine.h
+	"header.h"
+	"game.h"
+
+1659949699 c:\users\elian\onedrive\bureau\cpp\jeu\header.h
+	<allegro.h>
+	<time.h>
+	<vector>
+	<map>
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<cmath>
+	<fstream>
+	<sstream>
+	<chrono>
+	<thread>
+
+1659952986 c:\users\elian\onedrive\bureau\cpp\jeu\game.h
+	"header.h"
+	"engine.h"
+	"world.h"
+
+1659713967 c:\users\elian\onedrive\bureau\cpp\jeu\player.h
+	"engine.h"
+
+1659713371 source:c:\users\elian\onedrive\bureau\cpp\jeu\player.cpp
+	"player.h"
+
+1659952937 source:c:\users\elian\onedrive\bureau\cpp\jeu\game.cpp
+	"game.h"
+
+1659949318 source:c:\users\elian\onedrive\bureau\cpp\jeu\engine.cpp
+	"engine.h"
+
+1659948399 source:c:\users\elian\onedrive\bureau\cpp\jeu\world.cpp
+	"world.h"
+
+1659948399 c:\users\elian\onedrive\bureau\cpp\jeu\world.h
+
